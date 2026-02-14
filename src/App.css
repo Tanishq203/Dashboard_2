@@ -927,6 +927,6 @@ body {
   }
 
   .login-hero h1 {
-    font-size: clamp(20px, 5vw, 32px);
+    font-size: clamp(28px, 4.6vw, 50px);
   }
 }
