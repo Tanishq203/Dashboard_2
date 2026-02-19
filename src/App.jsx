@@ -1,6 +1,6 @@
 import { lazy, memo, Suspense } from 'react';
 import { Navigate, Outlet, createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Login from './login';
+import Login from './Login.jsx';
 import Header from './Layout.jsx/Header';
 import Sidebar from './Layout.jsx/Sidebar';
 import Footer from './Layout.jsx/Footer';
